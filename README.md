@@ -32,7 +32,7 @@
    ```
 3. Run the script:
    ```bash
-   python CH.py
+   python Chrome_Killer.py
    ```
 
 ---

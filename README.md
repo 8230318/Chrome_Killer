@@ -24,7 +24,7 @@
 ## ⚙️ Usage
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/Chrome_Killer.git
+   git clone https://github.com/8230318/Chrome_Killer.git
    ```
 2. Navigate to the project directory:
    ```bash
